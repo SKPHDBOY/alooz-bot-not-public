@@ -1,0 +1,16 @@
+{
+  "name": "alooz-hosting-security",
+  "version": "3.4.0",
+  "description": "Advanced Discord Security Bot by ALOOZ HOSTING",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.14.1",
+    "dotenv": "^16.4.5"
+  },
+  "engines": {
+    "node": ">=20.0.0"
+  }
+}
